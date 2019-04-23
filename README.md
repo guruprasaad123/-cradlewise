@@ -46,7 +46,7 @@ https://www.youtube.com/watch?v=DzzFSyzv1p0
 
 ### Solution 2 :
 
-Second one will be to use Generatiev-Adversarial-Networks to imitate the people doing the classification on some small folds of the huge dataset.
+Second one will be to use Generative-Adversarial-Networks to imitate the people doing the classification on some small folds of the huge dataset.
 
 Resouces :
 
