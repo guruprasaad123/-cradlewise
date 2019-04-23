@@ -52,4 +52,4 @@ Resouces :
 
 [https://towardsdatascience.com/how-i-got-a-computer-to-make-fake-people-using-ai-gans-a8e2f542e992](https://towardsdatascience.com/how-i-got-a-computer-to-make-fake-people-using-ai-gans-a8e2f542e992)
 
-## 3)
+
