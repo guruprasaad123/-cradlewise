@@ -1,5 +1,7 @@
 # Cradlewise
+
 ## Questions
+
 1) Is it necessary that two signals are the same if their autocorrelation functions are the
 same? What about auto-convolution?
 2) A particular data set needs human help for classification. But the dataset is huge and
@@ -9,25 +11,31 @@ to make the job easier?
 single number X (say within +/- 5%), how would you go about finding the largest
 possible X?
 
-## Answers 
-1)
+## Answers
+
+## 1 )
+
 ### Theory
+
 Autocorrelation is nothing but correlation of the signal and itself delayed version.
 i.e Autocorrelation of 2 functions of f(t) & f(t+1).
+
 ### Solution
+
 if these `autocorrelation` of the two signals are same then it could possibly be that two signals are same there could be some delay (t+a).
-2)
-If the large dataset requires persons help , 
-### Solution 1
-My idea would be to train a Reinforcement-learning-model under a environment in which people will let the model do the classification for non-similar datas in the huge dataset for making the model more generalized in nature,provide positive marks for the correct classification and negative marks for wrong classification so that it could perform well on realtime-scenario.By this way we'll need to spend some time for training the model But, once it get trained we can use the model for any Large datasets.
-Inspired by OpenAI 5v5.
+
+## 2)
+
+If the large dataset requires persons help ,
+
+### Solution 1 :
+
+My idea would be to train a Reinforcement-learning-model under a environment in which people will let the model do the classification for non-similar datas in the huge dataset for making the model more generalized in nature,provide `positive rewards` for the correct classification and `negative rewards` for wrong classification so that it could perform well on Real-time-Scenario.
+
+By this way we'll need to spend some time for training the model But, once it get trained we can use the model for any Large datasets.
+
+Inspired by `OpenAI 5v5`.
 Resources :
 https://www.youtube.com/watch?v=DzzFSyzv1p0
-### Solution 2
 
-
-
-
-
-
-
+### Solution 2 :
