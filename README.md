@@ -20,6 +20,10 @@ possible X?
 Autocorrelation is nothing but correlation of the signal and itself delayed version.
 i.e Autocorrelation of 2 functions of f(t) & f(t+1).
 
+Autoconvolution :
+
+which is different from autocorrelation in a way that it flips the signals to do the convolution
+
 ### Solution
 
 if these `autocorrelation` of the two signals are same then it could possibly be that two signals are same there could be some delay (t+a).
@@ -47,3 +51,5 @@ Second one will be to use Generatiev-Adversarial-Networks to imitate the people 
 Resouces :
 
 [https://towardsdatascience.com/how-i-got-a-computer-to-make-fake-people-using-ai-gans-a8e2f542e992](https://towardsdatascience.com/how-i-got-a-computer-to-make-fake-people-using-ai-gans-a8e2f542e992)
+
+## 3)
