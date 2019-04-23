@@ -37,6 +37,7 @@ By this way we'll need to spend some time for training the model But, once it ge
 Inspired by `OpenAI 5v5`.
 
 Resources :
+
 https://www.youtube.com/watch?v=DzzFSyzv1p0
 
 ### Solution 2 :
