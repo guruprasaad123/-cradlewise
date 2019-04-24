@@ -47,4 +47,17 @@ Resouces :
 
 [https://towardsdatascience.com/how-i-got-a-computer-to-make-fake-people-using-ai-gans-a8e2f542e992](https://towardsdatascience.com/how-i-got-a-computer-to-make-fake-people-using-ai-gans-a8e2f542e992)
 
+## 3)
+
+My idea programmatically would be to iterate over all of the permutation and find the largest possible number X.<br>
+
+```python
+from itertools import permutations 
+def largest(l): 
+    lst = [] 
+    for i in permutations(l, len(l)): 
+
+        lst.append("".join(map(str,i)))  
+    return max(lst) 
+```
 
