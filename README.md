@@ -15,18 +15,12 @@ possible X?
 
 ## 1 )
 
-### Theory
+### Autocorrelation
+yes ,Two signals are same if autocorrelation of the two signals are same.
+### Autoconvolution
+Yes ,Two signals are same if autoconvolution of the two signals are same.
+Please, Refer this (file)[https://github.com/guruprasaad123/cradlewise/edit/master/correlation_convolution.ipynb].<br>
 
-Autocorrelation is nothing but correlation of the signal and it's delayed version.
-i.e Autocorrelation of 2 functions of f(t) & f(t+1).
-
-Autoconvolution :
-
-which is different from autocorrelation in a way that it flips the signals to do the convolution
-
-### Solution
-
-if these `autocorrelation` of the two signals are same then it could possibly be that two signals are same there could be some delay (t+a).
 
 ## 2)
 
