@@ -17,7 +17,7 @@ possible X?
 
 ### Theory
 
-Autocorrelation is nothing but correlation of the signal and itself delayed version.
+Autocorrelation is nothing but correlation of the signal and it's delayed version.
 i.e Autocorrelation of 2 functions of f(t) & f(t+1).
 
 Autoconvolution :
