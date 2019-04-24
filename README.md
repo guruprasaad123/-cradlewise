@@ -20,7 +20,7 @@ yes ,Two signals are same if autocorrelation of the two signals are same.
 ### Autoconvolution
 Yes ,Two signals are same if autoconvolution of the two signals are same. <br>
 
-Please, Refer this [file](https://github.com/guruprasaad123/cradlewise/edit/master/correlation_convolution.ipynb).<br>
+Please, Refer this [file](https://github.com/guruprasaad123/cradlewise/blob/master/correlation_convolution.ipynb).<br>
 
 
 ## 2)
