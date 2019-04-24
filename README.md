@@ -53,11 +53,10 @@ My idea programmatically would be to iterate over all of the permutation and fin
 
 ```python
 from itertools import permutations 
-def largest(l): 
-    lst = [] 
-    for i in permutations(l, len(l)): 
-
+def largest(list=[]): 
+    lst_perm = [] 
+    for i in permutations(list, len(list)): 
         lst.append("".join(map(str,i)))  
-    return max(lst) 
+    return max(lst_perm) 
 ```
 
